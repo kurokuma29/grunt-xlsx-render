@@ -1,0 +1,24 @@
+{
+  "name": "grunt-xlsx-render",
+  "version": "0.1.4",
+  "description": "generate files from Excel file",
+  "main": "tasks/xlsx_render.js",
+  "author": {
+    "name": "Taichi Kato"
+  },
+  "repository": "kurokuma29/grunt-xlsx-render",
+  "licenses": "MIT",
+  "keywords": [
+    "gruntplugin",
+    "mustache",
+    "xlsx"
+  ],
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  },
+  "dependencies": {
+    "es6-promise": "^2.0.1",
+    "mustache": "^1.0.0",
+    "xlsx": "^0.7.12"
+  }
+}

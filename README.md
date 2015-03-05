@@ -24,7 +24,7 @@ In your project's Gruntfile, add a section named `xlsx_render` to the data objec
 
 ```js
 grunt.initConfig({
-  html_render: {
+  xlsx_render: {
     // Task options go here.
   }
 });
@@ -56,6 +56,7 @@ Subsequent rows to create to be a value.
 |----|-----|-----|
 |1   |Foo1 |Bar1 |
 |2   |Foo2 |Bar2 |
+
 
 ##### Template File
 How to write a template file is the same as the mustache.

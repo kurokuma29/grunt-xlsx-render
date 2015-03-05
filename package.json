@@ -1,6 +1,6 @@
 {
   "name": "grunt-xlsx-render",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "generate files from Excel file",
   "main": "tasks/xlsx_render.js",
   "author": {
